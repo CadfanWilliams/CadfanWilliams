@@ -16,7 +16,7 @@
 
 I'm a Software Engineer with 3 years of experience building production microservices and distributed systems. Currently at **BAE Systems Digital Intelligence**, working on full-stack features across TypeScript, Node.js, GraphQL, and React in a high-assurance engineering environment.
 
-Before that, I cut my teeth at **American Express** as part of their software engineering apprenticeship — building event-driven backend services, delivering internal full-stack tooling, and leading Agile ceremonies as Scrum Lead.
+Before that, I got started with **American Express** as part of their software engineering apprenticeship — building event-driven backend services, delivering internal full-stack tooling, and leading Agile ceremonies as Scrum Lead.
 
 I care about clean architecture, maintainable code, and systems that are built to last. Currently exploring **AI/LLM integration** and **cloud-native development** through personal projects.
 
